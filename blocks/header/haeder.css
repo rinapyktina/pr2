@@ -1,0 +1,12 @@
+.header {
+  /* border: 2px solid rgb(240, 13, 13); */
+  margin: 28px 48px 48px 48px;
+  max-height: 52px;
+}
+
+@media (max-width: 1280px) {
+  .header {
+    margin: 28px 48px 56px 48px;
+    max-height: 52px;
+  }
+}

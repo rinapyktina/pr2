@@ -1,0 +1,8 @@
+.cover__background {
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  opacity: 0.7;
+  transition: opacity 0.5s;
+}

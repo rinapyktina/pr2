@@ -1,0 +1,7 @@
+.cover {
+  overflow: hidden;
+  margin: 0px auto 0px auto;
+  max-width: 1184px;
+  height: 740px;
+  position: relative;
+}

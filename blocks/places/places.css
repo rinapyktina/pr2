@@ -1,0 +1,25 @@
+.places {
+  overflow: hidden;
+  margin: 92px 148px 92px 148px;
+  max-width: 984px;
+}
+
+@media (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+    margin: 92px 48px 92px 48px;
+  }
+
+  .place__title_decor {
+    gap: 32px;
+  }
+
+  .place__image {
+    max-width: 440px;
+    max-height: 440px;
+  }
+
+  .place__image-text {
+    gap: 33px;
+  }
+}

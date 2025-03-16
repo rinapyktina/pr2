@@ -1,0 +1,18 @@
+.page {
+  margin: 0;
+  width: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  border: 2px solid #2a2c2f;
+  background-color: #2a2c2f;
+  font-family: "Inter";
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}

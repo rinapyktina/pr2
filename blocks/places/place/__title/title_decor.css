@@ -1,0 +1,5 @@
+.place__title_decor {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}

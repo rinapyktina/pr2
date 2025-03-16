@@ -1,0 +1,6 @@
+.place__image-text {
+  margin-top: 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}

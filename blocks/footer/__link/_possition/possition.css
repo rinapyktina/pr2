@@ -1,0 +1,6 @@
+.footer__link_possition {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 18px;
+}
